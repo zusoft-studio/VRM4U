@@ -42,7 +42,8 @@ public class VRM4ULoader : ModuleRules
 				"RenderCore",
 				"CinematicCamera",
 				"AnimGraphRuntime",
-				"Projects",
+				"MeshDescription",
+                "Projects",
 				"VRM4U",
 			});
 		PrivateDependencyModuleNames.Add("TimeManagement");

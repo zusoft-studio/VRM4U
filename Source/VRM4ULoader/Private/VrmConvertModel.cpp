@@ -1,4 +1,5 @@
-﻿// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+﻿#pragma once
+// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
 // The code associated with the initialization of the mesh is based on the Engine source.
 // VRM4U Copyright (c) 2021-2026 Haruyoshi Yamamoto. This software is released under the MIT License.
 
